@@ -6,4 +6,3 @@ Unauthorized distribution, sharing, or reproduction of this software, in whole o
 Should this software be found in any unauthorized location, please notify us immediately at **calcformatics@calcformatics.com**. 
 CalcFormatics explicitly rejects any responsibility for damages resulting from the unauthorized use of this software.
 
-
