@@ -7,5 +7,3 @@ Should this software be found in any unauthorized location, please notify us imm
 CalcFormatics explicitly rejects any responsibility for damages resulting from the unauthorized use of this software.
 
 
-
-
